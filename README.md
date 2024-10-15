@@ -16,12 +16,10 @@ Kia Ora koutou! Hello everyone and welcome to my Cybersecurity profile. My name 
 - Communicating with stakeholders and scalating incidents (in progress)
 - AI in Cybersecurity (in progress)
 
-## Work Experience
-Plamt based baker
-- Street Organics Takapuna
-- Florences Cafee Wanaka
+2024 - EC-Council
+- [SQL Injection attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
 
-### Projects
-Buenos Aires
+## PORTFOLIO
+
 
 ### Community Work
