@@ -19,6 +19,11 @@ Kia Ora koutou! Hello everyone and welcome to my Cybersecurity profile. My name 
 2024 - EC-Council
 - [SQL Injection attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
 
+## APLICATIONS
+
+Splunk
+- [Introuction to Splunk](https://drive.google.com/file/d/1437G9Gop-AnP4HZ3e0GOFgkEWl3KbEZf/view?usp=sharing)
+
 ## PORTFOLIO
 
 
