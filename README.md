@@ -4,7 +4,7 @@ Kia Ora koutou! Hello everyone and welcome to my Cybersecurity profile. My name 
 - I'm exited to share that i've completed several courses provided by EC-Council, Google and CISCO. I also actively participate in hacking academies/ hubs hosted by TryHackMe and Hack the Box. 
 - Through these online study resources, I’ve had the opportunity to build an active portfolio, showcased on my personal GitHub page, and gain a deeper understanding of cybersecurity fundamentals. As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. This profile will be updated from time to time to showcase my latest jobs.  
 
-### CERTIFICATES
+## CERTIFICATES
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 - [Foundations of Cybersecurity](https://coursera.org/share/48a44f7bd12d318186045eb7c62342da)
 - [Managing Security Risks](https://coursera.org/share/ddb6c36249e444df898624cf9567aa05)
@@ -24,7 +24,7 @@ Kia Ora koutou! Hello everyone and welcome to my Cybersecurity profile. My name 
 Splunk
 - [Introuction to Splunk](https://drive.google.com/file/d/1437G9Gop-AnP4HZ3e0GOFgkEWl3KbEZf/view?usp=sharing)
 
-## PORTFOLIO
+### PORTFOLIO
 
 
 ### Community Work
