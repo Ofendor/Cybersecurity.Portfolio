@@ -1,7 +1,7 @@
-# Cyber Security Portfolio
+### Introduction
 
 ### Education
-Google Cyber Security Course 2024 [Coursera]
+- Google Cyber Security Course 2024 [Coursera]
 
 ## Work Experience
 Plamt based baker
