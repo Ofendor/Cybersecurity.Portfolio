@@ -1,3 +1,4 @@
+![vibrent_16](https://github.com/user-attachments/assets/6f97b23f-b5b3-41e6-b4d7-1da65b7c9dfb)
 ### INTRODUCTION
 Kia Ora koutou! Hello everyone and welcome to my Cybersecurity profile. My name is Emilio (AKA Milo) and im from Aotearoa, New Zealand.
 - Here, I aim to showcase my journey as a Cyber Security student. As a proof, i have included numerous portfolio activities that highlight my hands-on with Kali Linux, Python, SQL and database management, Data packet sniffing, and reporting following compliances like NIST and many other security  frameworks, and many other tasks. 
