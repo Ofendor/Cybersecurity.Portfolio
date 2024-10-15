@@ -1,6 +1,8 @@
 title: Emilio Mardones
 # Auckland, New Zealand
 #logo: 
-#description: Future Cyber Security professional | Pursuing recognised CompTIA CySA+ & Cisco CCST Certifications
-#show_downloads: true
-theme: minima
+Future Cyber Security professional | Pursuing recognised CompTIA CySA+ & Cisco CCST Certifications
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
