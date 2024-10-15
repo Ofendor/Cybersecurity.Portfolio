@@ -7,8 +7,15 @@ Kia Ora koutou! Hello everyone and welcome to my Cybersecurity profile. My name 
 ### CERTIFICATES
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 - [Foundations of Cybersecurity](https://coursera.org/share/48a44f7bd12d318186045eb7c62342da)
+- [Managing Security Risks](https://coursera.org/share/ddb6c36249e444df898624cf9567aa05)
 - [Network Security](https://coursera.org/share/38ab1d68036cb56bc093082ab335d0c1)
-- 
+- [Linux and SQL](https://coursera.org/share/d751138500d05e5257d59fe6b137679b)
+- [Assets, Threats and Vulnerabilities](https://coursera.org/share/e3f8eafdd79dd50e8e778e00373cc625)
+- [Detection and Response](https://coursera.org/share/9fe916483f218dddd8f544b0406db8a6)
+- [Automating security tasks with Python](https://coursera.org/share/bf47f0e56b5dc708b5735105288cd2ec)
+- Communicating with stakeholders and scalating incidents (in progress)
+- AI in Cybersecurity (in progress)
+
 ## Work Experience
 Plamt based baker
 - Street Organics Takapuna
