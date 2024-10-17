@@ -8,7 +8,7 @@
   <img src="https://www.clipartmax.com/png/small/275-2750441_resume-icons-curriculum-vitae.png" alt="Download CV" width="24" height="24">
 </a>
 
-<p style="color: #15d314; font-weight: bold;">INTRODUCTION</p>
+<p style="color: #15d314;">INTRODUCTION</p>
 
 <pre><code style="color: #ff3f31;">1 print("Kia Ora koutou!")</code></pre>
 
