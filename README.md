@@ -8,7 +8,7 @@
   <img src="https://www.clipartmax.com/png/small/275-2750441_resume-icons-curriculum-vitae.png" alt="Download CV" width="24" height="24">
 </a>
 
-<p style="color: #b5e853;font-size: 16px">I N T R O D U C T I O N</p>
+<p style="color: #b5e853; font-size: 16px">I N T R O D U C T I O N</p>
 
 <pre><code style="color: #ff3f31;">1 print("Kia ora koutou!")</code></pre>
 
