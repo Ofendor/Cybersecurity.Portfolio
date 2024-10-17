@@ -22,7 +22,7 @@
   Through these portfolios, showcased on my personal GitHub page, I've been able to get a deeper understanding of cybersecurity fundamentals. This profile will be updated from time to time to show my latest projects and learnings. You can also get a copy of my CV and further information about my career below.
 </p>
 
-<p style="color: #b5e853; font-weight: bold;">O B J E C T I V E S</p>
+<p style="color: #b5e853; font-weight: bold;">&#x25B6O B J E C T I V E S</p>
 
 <p style="font-size: 13px;">
   As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. My ultimate goals are:
