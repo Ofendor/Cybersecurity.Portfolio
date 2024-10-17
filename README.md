@@ -36,7 +36,7 @@
   My journey as a Cybersecurity student has led me to be interested in joining a Security Operations Center (SOC) as a Tier 1 Analyst or a future Pentester.
 </p>
 
-<p style="color: #b5e853; font-weight: bold;">S K I L L S</p>
+<p style="color: #b5e853;">S K I L L S</p>
 
 | Network                                        | Associated Exemplar         |
 |-----------------------------------------------|----------------------------|
