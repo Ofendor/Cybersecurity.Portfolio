@@ -61,7 +61,7 @@
 2024 - EC-Council
 - [SQL Injection attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
 
-## APLICATIONS
+<p style="color: #b5e853;">A P P L I C A T I O N S</p>
 hola que tal
 Splunk
 - [Introuction to Splunk](https://drive.google.com/file/d/1437G9Gop-AnP4HZ3e0GOFgkEWl3KbEZf/view?usp=sharing)
