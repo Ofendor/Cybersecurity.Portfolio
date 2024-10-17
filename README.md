@@ -41,10 +41,10 @@
 | Network                                        | Associated Exemplar         |
 |-----------------------------------------------|----------------------------|
 | DNS and ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Analysing-Network-communications/">Report of a network traffic activity</a>|
-| TCP protocol and Wireshark log analysis         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| TCP protocol and Wireshark log analysis         | <a href="">UPLOADING</a>|
+| Incident Response Planning and Execution      | <a href="">UPLOADING</a>|
+| Case Management with TheHive                  | <a href="">UPLOADING</a>|
+| Scripting and Automation for Threat Mitigation | <a href="">UPLOADING</a>|
 
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
