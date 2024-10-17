@@ -12,22 +12,22 @@
 
 <pre><code style="color: #ff3f31;">1 print("Kia Ora koutou!")</code></pre>
 
-<p style="font-size: 11px;">
+<p style="font-size: 14px;">
   Hello everyone and welcome to my Cybersecurity profile. My name is Emilio, and I'm based in Aotearoa, New Zealand. Here, I aim to showcase my journey as a Cybersecurity student.
 </p>
-<p style="font-size: 11px;">
+<p style="font-size: 14px;">
   As proof, I have included numerous portfolio activities that will track my hands-on work with Kali Linux, Python, SQL and database management, data packet sniffing and analysis, generating reports following security frameworks and compliances like NIST, and many other security tasks. I also actively participate in hacking academies/hubs hosted by TryHackMe and Hack the Box. 
 </p>
-<p style="font-size: 11px;">
+<p style="font-size: 14px;">
   Through these portfolios, showcased on my personal GitHub page, I've been able to get a deeper understanding of cybersecurity fundamentals. This profile will be updated from time to time to show my latest projects and learnings. You can also get a copy of my CV and further information about my career below.
 </p>
 
 <p style="color: #15d314; font-weight: bold;">OBJECTIVES</p>
 
-<p style="font-size: 11px;">
+<p style="font-size: 14px;">
   As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. My ultimate goals are:
 </p>
-<ul style="font-size: 11px;">
+<ul style="font-size: 12px;">
   <li>Be fluent in Python and SQL to better automate cybersecurity tasks.</li>
   <li>Learn more about Kali Linux for key security tasks.</li>
   <li>Acquire an internationally recognized certification like CompTIA CySA+ and Cisco CCST.</li>
