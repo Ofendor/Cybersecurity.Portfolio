@@ -46,6 +46,11 @@
 | Case Management with TheHive                  | <a hrref="">UPLOADING</a>|
 | Scripting and Automation for Threat Mitigation | <a hrref="">UPLOADING</a>|
 
+<p style="color: #b5e853;">A P P L I C A T I O N S</p>
+hola que tal
+Splunk
+- [Introuction to Splunk](https://drive.google.com/file/d/1437G9Gop-AnP4HZ3e0GOFgkEWl3KbEZf/view?usp=sharing)
+
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 
