@@ -1,8 +1,6 @@
 title: Emilio Mardones
 description: Cybersecurity Portfolio | Pursuing recognized CompTIA CySA+ and Cisco CCST certifications
-<a href="https://www.linkedin.com/in/emilio-mardones" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Badge" width="24" height="24" />
-</a>
+link: www.recipes.com
 show_downloads: false
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
