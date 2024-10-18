@@ -5,7 +5,7 @@
   <img src="https://www.clipartmax.com/png/small/31-316827_gmail-icon-gmail-icon.png" alt="Gmail Icon" width="24" height="24">
 </a>
 <a href="link_to_your_CV" download>
-  <img src="https://www.clipartmax.com/png/small/178-1788091_red-chip-cliparts-6-buy-clip-art-computer-chip-vector-png.png" alt="Red Chip Cliparts 6, Buy Clip Art - Computer Chip Vector Png @clipartmax.com" width="24" height="24">
+  <img src="https://www.clipartmax.com/png/small/97-978185_cv-library-banners-cv-library-jobs.png" alt="CV Library Icon" width="24" height="24">
 </a>
 
 <p style="color: #b5e853;">I N T R O D U C T I O N</p>
