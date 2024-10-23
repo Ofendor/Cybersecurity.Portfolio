@@ -42,7 +42,7 @@
 |-----------------------------------------------|----------------------------|
 | DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a>|
 | TCP protocol & SYN Handshake log analysis with Wireshark         | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Report of a network attack</a>|
-| Incident Response to Brute Force Attack      | <a hrref="">Using Tcpdump logs to identify protocols</a>|
+| Incident Response to Brute Force Attack      | <a href="https://ofendor.github.io/Portfolio3-Incident-Response-to-Brute-Force-Attack/">Using Tcpdump logs to identify protocols</a>|
 | Network Hardening Tools                  | <a hrref="">Security Risk Assessment report</a>|
 | NIST Cybersecurity Framework as an incident response tool | <a hrref="">Elaborating a report following compliances</a>|
 
