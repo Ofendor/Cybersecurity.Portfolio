@@ -4,7 +4,7 @@
 <a href="mailto:milomardones.nc@gmail.com" target="_blank">
   <img src="https://www.clipartmax.com/png/small/31-316827_gmail-icon-gmail-icon.png" alt="Gmail Icon" width="24" height="24">
 </a>
-<a href="https://drive.google.com/file/d/127DuFMwV0k7777eUlkR3fI8hPA9D-7Cdmbrz/view?usp=sharing" download>
+<a href="https://drive.google.com/file/d/1m1tlBR6FM2I4kdpJqK8JpWM7i1vXi3pJ/view" download>
   <img src="https://www.clipartmax.com/png/small/97-978185_cv-library-banners-cv-library-jobs.png" alt="CV Library Icon" width="24" height="24">
 </a>
 
@@ -46,11 +46,6 @@
 | Network Hardening Tools                  | <a href="https://ofendor.github.io/Portfolio4Network-Hardening-Tools/">Security Risk Assessment report</a>|
 | NIST Cybersecurity Framework as an incident response tool | <a hrref="">Elaborating a report following compliances</a>|
 
-<p style="color: #b5e853;">A P P L I C A T I O N S</p>
-hola que tal
-Splunk
-- [Introuction to Splunk](https://drive.google.com/file/d/1437G9Gop-AnP4HZ3e0GOFgkEWl3KbEZf/view?usp=sharing)
-
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 
@@ -66,13 +61,3 @@ Splunk
 
 2024 - EC-Council
 - [SQL Injection attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
-
-<p style="color: #b5e853;">A P P L I C A T I O N S</p>
-hola que tal
-Splunk
-- [Introuction to Splunk](https://drive.google.com/file/d/1437G9Gop-AnP4HZ3e0GOFgkEWl3KbEZf/view?usp=sharing)
-
-### PORTFOLIO
-
-
-### Community Work
