@@ -4,10 +4,9 @@
 <a href="mailto:milomardones.nc@gmail.com" target="_blank">
   <img src="https://www.clipartmax.com/png/small/31-316827_gmail-icon-gmail-icon.png" alt="Gmail Icon" width="24" height="24">
 </a>
-<a href="https://drive.google.com/file/d/1m1tlBR6FM2I4kdpJqK8JpWM7i1vXi3pJ/view?usp=sharing" download>
+<a href="https://drive.google.com/file/d/1lwMiHmgTRCDf2w7beGCzb9j0ZuOLO4fM/view?usp=sharing" target="_blank">
   <img src="https://www.clipartmax.com/png/small/97-978185_cv-library-banners-cv-library-jobs.png" alt="CV Library Icon" width="24" height="24">
 </a>
-
 
 <p style="color: #b5e853;">I N T R O D U C T I O N</p>
 
