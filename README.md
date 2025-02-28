@@ -52,6 +52,8 @@ This section is getting upgraded soon.
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 
+[Visit my Credly profile to check for badges and credentials](https://www.credly.com/users/emilio-mardones)
+
 [Main Cybersecurity Certificate](https://drive.google.com/file/d/12MpTK7f06sfj6RC-NY48VOSnq_j2WYAd/view?usp=sharing)
 
 - [Foundations of Cybersecurity](https://coursera.org/share/48a44f7bd12d318186045eb7c62342da)
