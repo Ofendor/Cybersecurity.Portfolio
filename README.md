@@ -13,7 +13,7 @@
 <pre><code style="color: #ff3f31;">1 print("Kia ora koutou!")</code></pre>
 
 <p style="font-size: 13px;">
-  Hello everyone and welcome to my Cybersecurity profile. My name is Emilio, and I'm based in Aotearoa, New Zealand. Here, I aim to showcase my journey as a Cybersecurity student.
+  Hello everyone and welcome to my Cybersecurity profile. My name is Emilio, and I'm based in Aotearoa, New Zealand. Here, I aim to showcase my journey as a Cybersecurity and Netwoek Engineer student.
 </p>
 <p style="font-size: 13px;">
   As proof, I have included numerous portfolio activities that will track my hands-on work with Kali Linux, Python, SQL and database management, data packet sniffing and analysis, generating reports following security frameworks and compliances like NIST, and many other security tasks. I also actively participate in hacking academies/hubs hosted by TryHackMe and Hack the Box. 
