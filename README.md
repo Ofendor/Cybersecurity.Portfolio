@@ -13,7 +13,7 @@
 <pre><code style="color: #ff3f31;">1 print("Kia ora koutou!")</code></pre>
 
 <p style="font-size: 13px;">
-  Hello everyone and welcome to my Cybersecurity profile. My name is Emilio, and I'm based in Aotearoa, New Zealand. Here, I aim to showcase my journey as a Cybersecurity and Netwoek Engineer student.
+  Hello everyone and welcome to my Cybersecurity profile. My name is Emilio, and I'm based in Aotearoa, New Zealand. Here, I aim to showcase my journey as a Cybersecurity and Network Engineer student.
 </p>
 <p style="font-size: 13px;">
   As proof, I have included numerous portfolio activities that will track my hands-on work with Kali Linux, Python, SQL and database management, data packet sniffing and analysis, generating reports following security frameworks and compliances like NIST, and many other security tasks. I also actively participate in hacking academies/hubs hosted by TryHackMe and Hack the Box. 
@@ -47,8 +47,12 @@
 | Network Hardening Tools                  | <a href="https://ofendor.github.io/Portfolio4Network-Hardening-Tools/">Security Risk Assessment report</a>|
 | NIST Cybersecurity Framework as an incident response tool | <a hrref="">Elaborating a report following compliances</a>|
 
+This section is getting upgraded soon. 
+
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
+
+[Main Cybersecurity Certificate](https://drive.google.com/file/d/12MpTK7f06sfj6RC-NY48VOSnq_j2WYAd/view?usp=sharing)
 
 - [Foundations of Cybersecurity](https://coursera.org/share/48a44f7bd12d318186045eb7c62342da)
 - [Managing Security Risks](https://coursera.org/share/ddb6c36249e444df898624cf9567aa05)
@@ -57,8 +61,23 @@
 - [Assets, Threats, and Vulnerabilities](https://coursera.org/share/e3f8eafdd79dd50e8e778e00373cc625)
 - [Detection and Response](https://coursera.org/share/9fe916483f218dddd8f544b0406db8a6)
 - [Automating Security Tasks with Python](https://coursera.org/share/bf47f0e56b5dc708b5735105288cd2ec)
-- Communicating with Stakeholders and Escalating Incidents (in progress)
-- AI in Cybersecurity (in progress)
+- [Communicating with Stakeholders and Escalating Incidents](https://coursera.org/share/147e4017a76017e37d87a52c821c5512)
 
 2024 - EC-Council
 - [SQL Injection attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
+- [CURRENT] - Network Defense Fundamentals Career Path
+
+2024-2025 Cisco Academy
+- [Introduction to Cybersecurity](https://drive.google.com/file/d/1so9GHoRlknjTD5U9qUVI5D-QyJvhB06w/view?usp=sharing)
+- [Network Technician: Network Basics](https://drive.google.com/file/d/19MKnnmIVnbhw2Y7ySmNnCkaStiEGDOHT/view?usp=sharing)
+- [CURRENT] - Networking Devices and Initial Configuration [Part of Network technician career path]
+- [CURRENT] - Python 1 for Networking [Part of Network technician career path]
+
+2024 - Cybrary
+- [The MITRE ATT&CK Framework](https://drive.google.com/file/d/1loLTSzUfVHYcjGc8u4asRxGAteYKu75M/view?usp=sharing)
+
+2024-2025 - TryHackMe Academy
+- [Cybersecurity and Network Security](https://drive.google.com/file/d/1zY9YeLcZvC5ohbS7INzbhUxr8ySP_apz/view?usp=sharing)
+- [CURRENT] - SOC Level 1 Career Path
+
+
