@@ -30,6 +30,7 @@
 <ul style="font-size: 12px;">
   <li>Be fluent in Python and SQL to better automate cybersecurity tasks.</li>
   <li>Learn more about Kali Linux for key security duties.</li>
+  <li>Learn deeply about Network functionality and Cloud services</li>
   <li>Acquire an internationally recognized certification like CompTIA CySA+ and Cisco CCST.</li>
 </ul>
 <p style="font-size: 13px;">
