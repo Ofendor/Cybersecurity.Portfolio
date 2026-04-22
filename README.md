@@ -50,6 +50,24 @@
 | NIST Cybersecurity Framework as an incident response tool | Elaborating a report following compliances|
 -->
 
+<p style="color: #b5e853;">Malware Analysis</p>
+
+| # | Lab | Category | Tools Used | Status |
+|---|-----|----------|-----------|--------|
+| 01 | Lab Setup & Safe Analysis Environment | Setup | VirtualBox, Kali Linux, Windows VM | 🔄 |
+
+<!--
+| 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | ⬜ |
+| 03 | Static Analysis - String Extraction | Static | strings, FLOSS | ⬜ |
+| 04 | Behavior Analysis | Dynamic | Process Monitor, Wireshark, x64dbg | ⬜ |
+| 05 | Debugging & Disassembly | Dynamic | x64dbg, IDA Free | ⬜ |
+| 06 | Obfuscation Techniques | Advanced | IDA Free, FLOSS | ⬜ |
+-->
+
+<p style="font-size: 13px;">
+Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
+</p>
+
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 
