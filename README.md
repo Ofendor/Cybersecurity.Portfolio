@@ -22,7 +22,7 @@
   Through these portfolios, showcased on my personal GitHub page, I've been able to get a deeper understanding of cybersecurity fundamentals. This profile will be updated from time to time to show my latest projects and learnings. You can also get a copy of my CV and further information about my career below.
 </p>
 
-<p style="color: #b5e853;">O B J E C T I V E S</p>
+<p style="color: #b5e853;">Objectives</p>
 
 <p style="font-size: 13px;">
   As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. My ultimate goals are:
@@ -37,17 +37,18 @@
   My journey as a Cybersecurity student has led me to be interested in joining a Security Operations Center (SOC) as a Tier 1 Analyst or a future Pentester.
 </p>
 
-<p style="color: #b5e853;">S K I L L S</p>
+<p style="color: #b5e853;">Skills</p>
 
 | Network                                        | Associated Exemplar         |
 |-----------------------------------------------|----------------------------|
 | DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a>|
 | TCP protocol & SYN Handshake log analysis with Wireshark         | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Report of a network attack</a>|
-| Incident Response to Brute Force Attack      | <a href="https://ofendor.github.io/Portfolio3-Incident-Response-to-Brute-Force-Attack/">Using Tcpdump logs to identify protocols[In progress]</a>|
-| Network Hardening Tools [In progress]                  | <a href="https://ofendor.github.io/Portfolio4Network-Hardening-Tools/">Security Risk Assessment report</a>|
-| NIST Cybersecurity Framework as an incident response tool [in progress]| <a hrref="">Elaborating a report following compliances</a>|
 
-This section is getting upgraded soon. 
+<!--
+| Incident Response to Brute Force Attack      | <a href="https://ofendor.github.io/Portfolio3-Incident-Response-to-Brute-Force-Attack/">Using Tcpdump logs to identify protocols</a>|
+| Network Hardening Tools                      | <a href="https://ofendor.github.io/Portfolio4Network-Hardening-Tools/">Security Risk Assessment report</a>|
+| NIST Cybersecurity Framework as an incident response tool | Elaborating a report following compliances|
+-->
 
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
