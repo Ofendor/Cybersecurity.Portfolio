@@ -8,7 +8,7 @@
   <img src="https://www.clipartmax.com/png/small/97-978185_cv-library-banners-cv-library-jobs.png" alt="CV Library Icon" width="24" height="24">
 </a>
 
-<p style="color: #b5e853;">I N T R O D U C T I O N</p>
+<p style="color: #b5e853;">Introduction</p>
 
 <pre><code style="color: #ff3f31;">1 print("Kia ora koutou!")</code></pre>
 
