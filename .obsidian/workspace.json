@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50446319580078
+    "width": 217.50446319580078,
+    "collapsed": true
   },
   "right": {
     "id": "9ac8fbf28aeea509",
@@ -187,6 +188,8 @@
   },
   "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
+    "malware-analysis/lab-setup/images/analysys-workflow.png",
+    "malware-analysis/lab-setup/images/analysys_workflow1.png",
     "malware-analysis/lab-setup/images/pre-installation-verification.png",
     "malware-analysis/lab-setup/images/lab-architecture.png",
     "malware-analysis/lab-setup/lab-01-setup-notes.md",
