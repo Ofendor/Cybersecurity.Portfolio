@@ -50,11 +50,7 @@
 | NIST Cybersecurity Framework as an incident response tool | Elaborating a report following compliances|
 -->
 
-<p style="color: #b5e853;">Malware Analysis</p>
-
-| # | Lab | Category | Tools Used | Status |
-|---|-----|----------|-----------|--------|
-| 01 | Lab Setup & Safe Analysis Environment | Setup | VirtualBox, Kali Linux, Windows VM | 🔄 |
+| 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | 🔄 |
 
 <!--
 | 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | ⬜ |
