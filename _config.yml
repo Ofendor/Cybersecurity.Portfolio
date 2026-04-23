@@ -6,24 +6,19 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Author information
 author:
   name: Emilio Mardones
   email: milomardones.nc@proton.me
 
-# Site settings
-url: "https://ofendor.github.io"
-baseurl: "/Cybersecurity.Portfolio"
-
-# SEO and social
 twitter:
   username: 
 linkedin:
   username: emilio-mardones
 
-# Exclude unnecessary files from build
 exclude:
   - README.md
   - Malware-Analysis-Lab/
+  - "*.json"
+  - "*.lock"
   - "*.json"
   - "*.lock"
