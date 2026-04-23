@@ -188,6 +188,8 @@
   },
   "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
+    "_includes/_head-custom.html",
+    "_includes",
     "malware-analysis/lab-setup/images/analysys-workflow.png",
     "malware-analysis/lab-setup/images/analysys_workflow1.png",
     "malware-analysis/lab-setup/images/pre-installation-verification.png",
