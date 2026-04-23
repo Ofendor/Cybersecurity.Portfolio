@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "malware-analysis/lab-setup/lab-01-setup-notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "lab-01-setup-notes"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
-    "malware-analysis/lab-setup/lab-01-setup-notes.md",
     "README.md",
+    "malware-analysis/lab-setup/lab-01-setup-notes.md",
     "_includes/head-custom.html",
     "_includes/_head-custom.html",
     "_includes",
