@@ -1,7 +1,19 @@
 title: Emilio Mardones
-description: Cybersecurity & Network Technician Portfolio | Pursuing recognized CompTIA CySA+ and Cisco CCST certifications
+description: Graduate Network Engineer & Cloud Practitioner | Self-directed Cybersecurity & Malware Analysis
 show_downloads: false
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+author:
+  name: Emilio Mardones
+  email: milomardones.nc@proton.me
+
+twitter:
+  username: 
+linkedin:
+  username: emilio-mardones
+
+exclude:
+  - Malware-Analysis-Lab/
