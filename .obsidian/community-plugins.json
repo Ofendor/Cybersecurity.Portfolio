@@ -1,12 +1,3 @@
 [
-  "obsidian-git",
-  "code-styler",
-  "colored-tags",
-  "editing-toolbar",
-  "harper",
-  "iconic",
-  "image-converter",
-  "mlir-syntax-highlight",
-  "ninja-cursor",
-  "obsidian-plugin-toc"
+  "obsidian-git"
 ]
