@@ -16,9 +16,4 @@ linkedin:
   username: emilio-mardones
 
 exclude:
-  - README.md
   - Malware-Analysis-Lab/
-  - "*.json"
-  - "*.lock"
-  - "*.json"
-  - "*.lock"
