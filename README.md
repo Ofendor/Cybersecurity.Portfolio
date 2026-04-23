@@ -36,21 +36,28 @@
 <p style="font-size: 13px;">
   My journey as a Cybersecurity student has led me to be interested in joining a Security Operations Center (SOC) as a Tier 1 Analyst or a future Pentester.
 </p>
-
 <p style="color: #b5e853;">Skills</p>
 
-| Network                                        | Associated Exemplar         |
-|-----------------------------------------------|----------------------------|
-| DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a> ✅|
-| TCP protocol & SYN Handshake log analysis with Wireshark         | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Report of a network attack</a> ✅|
+| Network | Associated Exemplar |
+|---------|--------------------|
+| DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a> ✅ |
+| TCP protocol & SYN Handshake log analysis with Wireshark | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Report of a network attack</a> ✅ |
+
+<p style="color: #b5e853;">Malware Analysis</p>
+
+| # | Lab | Category | Tools Used | Status |
+|---|-----|----------|------------|--------|
+| 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | 🔄 |
+
+<p style="font-size: 13px;">
+Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
+</p>
 
 <!--
 | Incident Response to Brute Force Attack      | <a href="https://ofendor.github.io/Portfolio3-Incident-Response-to-Brute-Force-Attack/">Using Tcpdump logs to identify protocols</a>|
 | Network Hardening Tools                      | <a href="https://ofendor.github.io/Portfolio4Network-Hardening-Tools/">Security Risk Assessment report</a>|
 | NIST Cybersecurity Framework as an incident response tool | Elaborating a report following compliances|
 -->
-
-| 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | 🔄 |
 
 <!--
 | 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | ⬜ |
@@ -59,10 +66,6 @@
 | 05 | Debugging & Disassembly | Dynamic | x64dbg, IDA Free | ⬜ |
 | 06 | Obfuscation Techniques | Advanced | IDA Free, FLOSS | ⬜ |
 -->
-
-<p style="font-size: 13px;">
-Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
-</p>
 
 <p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
