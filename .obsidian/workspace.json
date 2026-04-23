@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50446319580078,
-    "collapsed": true
+    "width": 217.50446319580078
   },
   "right": {
     "id": "9ac8fbf28aeea509",
@@ -187,5 +186,8 @@
     }
   },
   "active": "449bdfdf6ca9b3a0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "malware-analysis/lab-setup/lab-01-setup-notes.md"
+  ]
 }
