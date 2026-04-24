@@ -45,15 +45,10 @@
 
 <p style="color: #b5e853;">Malware Analysis Lab</p>
 
-<p style="font-size: 13px;">
-Self-directed malware analysis study based on <em>Practical Malware Analysis</em> (Sikorski) and <em>Evasive Malware</em> (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices. The lab architecture separates static and dynamic analysis across dedicated Windows 10 Enterprise LTSC virtual machines, with REMnux acting as the network gateway.
-</p>
-
 <p style="color: #b5e853;">Malware Analysis</p>
 
-| # | Lab | Category | Tools Used | Status |
-|---|-----|----------|------------|--------|
 | 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | 🔄 |
+| 01b | [FLARE-VM Installation Troubleshooting Log](malware-analysis/lab-setup/lab-01-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
 
 <p style="font-size: 13px;">
 Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
