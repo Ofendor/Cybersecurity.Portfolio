@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50446319580078
+    "width": 217.50446319580078,
+    "collapsed": true
   },
   "right": {
     "id": "9ac8fbf28aeea509",
@@ -184,7 +185,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e75ce39a925f994d",
+  "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
     "malware-analysis/lab-setup/lab-01-setup-notes.md",
     "malware-analysis/lab-setup/lab-01-troubleshooting-log.md",
