@@ -43,12 +43,12 @@
 | DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a> ✅ |
 | TCP protocol & SYN Handshake log analysis with Wireshark | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Report of a network attack</a> ✅ |
 
-<p style="color: #b5e853;">Malware Analysis Lab</p>
-
 <p style="color: #b5e853;">Malware Analysis</p>
 
+| # | Lab | Category | Tools Used | Status |
+|---|-----|----------|------------|--------|
 | 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | 🔄 |
-| 01b | [FLARE-VM Installation Troubleshooting Log](malware-analysis/lab-setup/lab-01-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
+| 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-setup/lab-01-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
 
 <p style="font-size: 13px;">
 Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
