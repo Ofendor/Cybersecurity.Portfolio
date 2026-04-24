@@ -7,9 +7,30 @@
       div.textContent = el.textContent;
       el.parentNode.replaceWith(div);
     });
-    mermaid.initialize({
-      startOnLoad: true,
-      theme: 'dark'
-    });
+    mermaid.initialize({startOnLoad: true, theme: 'dark'});
   });
 </script>
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+  }
+  table th, table td {
+    border: 1px solid #b5e853;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  table th {
+    background-color: #1a1a1a;
+    color: #b5e853;
+    font-weight: bold;
+  }
+  table tr:nth-child(even) {
+    background-color: #0d0d0d;
+  }
+  table tr:hover {
+    background-color: #1f1f1f;
+  }
+</style>
