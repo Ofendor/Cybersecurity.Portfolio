@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malware-analysis/lab-setup/lab-01-troubleshooting-log.md",
+                "file": "malware-analysis/lab-setup/lab-01-setup-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-01-troubleshooting-log"
+              "title": "lab-01-setup-notes"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
+    "malware-analysis/lab-setup/lab-01-troubleshooting-log.md",
     "malware-analysis/lab-setup/images/vbox-environment-overview.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 181140.png",
     "malware-analysis/lab-setup/images/tool-validation5.png",
@@ -197,9 +198,7 @@
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171820.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171739.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171708.png",
-    "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171627.png",
     "conflict-files-obsidian-git.md",
-    "malware-analysis/lab-setup/lab-01-troubleshooting-log.md",
     "Untitled.base",
     "malware-analysis/lab-setup/lab-01-setup-notes.md",
     "README.md",
