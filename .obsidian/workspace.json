@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "malware-analysis/lab-02-basic-static-analysis/lab-02-sample-acquisition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "lab-02-sample-acquisition"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
+    "README.md",
     "malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md",
     "malware-analysis/lab-01-setup/lab-01-setup-notes.md",
     "malware-analysis/lab-02-basic-static-analysis/lab-02-sample-acquisition.md",
@@ -202,7 +203,6 @@
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171739.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171708.png",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "_includes/head-custom.html",
     "_includes/_head-custom.html",
     "_includes",
