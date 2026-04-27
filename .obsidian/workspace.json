@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50446319580078,
-    "collapsed": true
+    "width": 217.50446319580078
   },
   "right": {
     "id": "9ac8fbf28aeea509",
@@ -188,6 +187,7 @@
   "active": "449bdfdf6ca9b3a0",
   "lastOpenFiles": [
     "malware-analysis/lab-setup/lab-01-troubleshooting-log.md",
+    "malware-analysis/lab-setup/lab-01-setup-notes.md",
     "malware-analysis/lab-setup/images/vbox-environment-overview.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 181140.png",
     "malware-analysis/lab-setup/images/tool-validation5.png",
@@ -200,7 +200,6 @@
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171708.png",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
-    "malware-analysis/lab-setup/lab-01-setup-notes.md",
     "README.md",
     "_includes/head-custom.html",
     "_includes/_head-custom.html",
