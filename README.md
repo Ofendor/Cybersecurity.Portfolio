@@ -29,7 +29,7 @@ This portfolio documents my hands-on projects, labs, and research as I continue 
 
 </p>
 <p style="font-size: 13px;">
-  Through these portfolios, showcased on my personal GitHub page, I've been able to get a deeper understanding of cybersecurity fundamentals. This profile will be updated from time to time to show my latest projects and learnings. You can also get a copy of my CV and further information about my career below.
+  This GitHub portfolio reflects my approach to learning: practical, hands-on, and consistently documented. Many of these projects are supported by write-ups, architecture diagrams, screenshots, and Git commit history to demonstrate ongoing progress.
 </p>
 
 <p style="color: #b5e853;">Objectives</p>
@@ -81,7 +81,7 @@ Self-directed malware analysis study based on Practical Malware Analysis (Sikors
 | 06 | Obfuscation Techniques | Advanced | IDA Free, FLOSS | ⬜ |
 -->
 
-<p style="color: #b5e853; font-weight: bold;">C E R T I F I C A T E S</p>
+<p style="color: #b5e853; font-weight: bold;">Certs</p>
 2024 - Google Cybersecurity Professional Certificate [Coursera]
 
 [Visit my Credly profile to check for badges and credentials](https://www.credly.com/users/emilio-mardones)
