@@ -43,18 +43,6 @@ This page will continue to evolve as I publish new labs, projects, and research.
 
 You can also find my CV and contact information.
 
-<p style="font-size: 13px;">
-  As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. My ultimate goals are:
-</p>
-<ul style="font-size: 12px;">
-  
-  <li>Learn more about Kali Linux for key security duties.</li>
-  <li>Learn deeply about Network functionality and Cloud services</li>
-  <li>Acquire an internationally recognized certification like CompTIA CySA+ and Cisco CCST.</li>
-</ul>
-<p style="font-size: 13px;">
-  My journey as a Cybersecurity student has led me to be interested in joining a Security Operations Center (SOC) as a Tier 1 Analyst or a future Pentester.
-</p>
 <p style="color: #b5e853;">Skills</p>
 
 | Network | Associated Exemplar |
