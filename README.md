@@ -28,9 +28,7 @@ This portfolio documents my hands-on projects, labs, and research as I continue 
  </ul>
 
 </p>
-<p style="font-size: 13px;">
-  This GitHub portfolio reflects my approach to learning: practical, hands-on, and consistently documented. Many of these projects are supported by write-ups, architecture diagrams, screenshots, and Git commit history to demonstrate ongoing progress.
-</p>
+ 
 
 <p style="color: #b5e853;">Objectives</p>
 
