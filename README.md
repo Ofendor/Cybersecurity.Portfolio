@@ -54,8 +54,8 @@ You can also find my CV and contact information.
 
 | # | Lab | Category | Tools Used | Status |
 |---|-----|----------|------------|--------|
-| 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | ✅ |
-| 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-setup/lab-01-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
+| 01 | [Lab Setup & Safe Analysis Environment](lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | ✅ |
+| 01b | [FLARE-VM Troubleshooting Log](lab-01-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
 | 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | 🔄 |
 | 03 | Static Analysis - String Extraction | Static | strings, FLOSS | 🔄 |
 | 04 | Behavior Analysis | Dynamic | Process Monitor, Wireshark, x64dbg | 🔄 |

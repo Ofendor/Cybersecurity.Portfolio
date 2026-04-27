@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malware-analysis/lab-setup/lab-01-setup-notes.md",
+                "file": "malware-analysis/lab-01-setup/lab-01-setup-notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,28 +184,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "449bdfdf6ca9b3a0",
+  "active": "e75ce39a925f994d",
   "lastOpenFiles": [
-    "malware-analysis/lab-setup/lab-01-troubleshooting-log.md",
-    "malware-analysis/lab-setup/lab-01-setup-notes.md",
-    "malware-analysis/lab-setup/images/vbox-environment-overview.png",
+    "Untitled.base",
+    "malware-analysis/lab-01-setup/lab-01-setup-notes.md",
+    "malware-analysis/lab-02-basic-static-analysis",
+    "malware-analysis/lab-01-setup/lab-01-troubleshooting-log.md",
+    "malware-analysis/lab-01-setup/images/vbox-environment-overview.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 181140.png",
-    "malware-analysis/lab-setup/images/tool-validation5.png",
-    "malware-analysis/lab-setup/images/tool-validation4.png",
-    "malware-analysis/lab-setup/images/tool-validation3.png",
-    "malware-analysis/lab-setup/images/tool-validation2.png",
-    "malware-analysis/lab-setup/images/tool-validation1.png",
+    "malware-analysis/lab-01-setup/images/tool-validation5.png",
+    "malware-analysis/lab-01-setup/images/tool-validation4.png",
+    "malware-analysis/lab-01-setup/images/tool-validation3.png",
+    "malware-analysis/lab-01-setup/images/tool-validation2.png",
+    "malware-analysis/lab-01-setup/images/tool-validation1.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171820.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171739.png",
     "malware-analysis/lab-setup/images/Screenshot 2026-04-25 171708.png",
     "conflict-files-obsidian-git.md",
-    "Untitled.base",
     "README.md",
     "_includes/head-custom.html",
     "_includes/_head-custom.html",
     "_includes",
     "malware-analysis/lab-setup/images/New folder",
-    "malware-analysis/lab-setup/images",
+    "malware-analysis/lab-01-setup/images",
     "malware-analysis/lab-setup/New folder"
   ]
 }
