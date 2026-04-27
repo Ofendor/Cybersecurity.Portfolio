@@ -30,7 +30,7 @@ This portfolio documents my hands-on projects, labs, and research as I continue 
 </p>
  
 
-<p style="color: #b5e853;">Objectives</p>
+##<p style="color: #b5e853;">Objectives</p>##
 
 <p style="font-size: 13px;">
   As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. My ultimate goals are:
