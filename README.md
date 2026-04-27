@@ -47,8 +47,11 @@
 
 | # | Lab | Category | Tools Used | Status |
 |---|-----|----------|------------|--------|
-| 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | 🔄 |
+| 01 | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-setup/lab-01-setup-notes.md) | Setup | VirtualBox, Windows LTSC, REMnux | ✅ |
 | 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-setup/lab-01-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
+| 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | 🔄 |
+| 03 | Static Analysis - String Extraction | Static | strings, FLOSS | 🔄 |
+| 04 | Behavior Analysis | Dynamic | Process Monitor, Wireshark, x64dbg | 🔄 |
 
 <p style="font-size: 13px;">
 Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
