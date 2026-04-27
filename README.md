@@ -13,10 +13,19 @@
 <pre><code style="color: #ff3f31;">1 print("Kia ora koutou!")</code></pre>
 
 <p style="font-size: 13px;">
-  Hello everyone and welcome to my Cybersecurity profile. My name is Emilio, and I'm based in Aotearoa, New Zealand. Here, I aim to showcase my journey as a Cybersecurity and Network Engineer student.
+  My name is Emilio Mardones, and I am based in Aotearoa, New Zealand. I recently completed a Level 7 Diploma in Network Engineering & Cloud Computing and am building my career at the intersection of cloud infrastructure, networking, and cybersecurity.
 </p>
 <p style="font-size: 13px;">
-  As proof, I have included numerous portfolio activities that will track my hands-on work with Kali Linux, Python, SQL and database management, data packet sniffing and analysis, generating reports following security frameworks and compliances like NIST, and many other security tasks. I also actively participate in hacking academies/hubs hosted by TryHackMe and Hack the Box. 
+This portfolio documents my hands-on projects, labs, and research as I continue developing practical engineering skills. My work includes:
+
+Cloud infrastructure labs in Azure, with growing focus on OpenStack and Kubernetes
+Network design, segmentation, and security hardening projects
+Malware analysis and sandbox research
+Linux system administration and scripting
+Python automation and IoT integrations
+Packet capture and protocol analysis using Wireshark and tcpdump
+Security reporting aligned with frameworks such as NIST and MITRE ATT&CK
+Continuous learning through platforms such as TryHackMe and Hack The Box
 </p>
 <p style="font-size: 13px;">
   Through these portfolios, showcased on my personal GitHub page, I've been able to get a deeper understanding of cybersecurity fundamentals. This profile will be updated from time to time to show my latest projects and learnings. You can also get a copy of my CV and further information about my career below.
