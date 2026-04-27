@@ -29,13 +29,23 @@ This portfolio documents my hands-on projects, labs, and research as I continue 
 
 </p>
  
-<p style="color: #b5e853;">##Objectives##</p>
+<p style="color: #b5e853;">Career Goals</p>
+My long-term goal is to contribute to teams working in:
+<li>Cloud Security / Security Operations.</li>
+<li>Cloud Engineering.</li>
+<li>Infrastructure / Platform Engineering.</li>
+<li>Network Engineering.</li>
+<li>IoT and M2M cloud deployment.</li>
+
+This page will continue to evolve as I publish new labs, projects, and research.
+
+You can also find my CV and contact information.
 
 <p style="font-size: 13px;">
   As a future Cybersecurity professional, I understand that continuous learning is key to developing a strong cybersecurity mindset. My ultimate goals are:
 </p>
 <ul style="font-size: 12px;">
-  <li>Be fluent in Python and SQL to better automate cybersecurity tasks.</li>
+  
   <li>Learn more about Kali Linux for key security duties.</li>
   <li>Learn deeply about Network functionality and Cloud services</li>
   <li>Acquire an internationally recognized certification like CompTIA CySA+ and Cisco CCST.</li>
