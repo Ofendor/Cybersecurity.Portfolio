@@ -31,11 +31,13 @@ This portfolio documents my hands-on projects, labs, and research as I continue 
  
 <p style="color: #b5e853;">Career Goals</p>
 My long-term goal is to contribute to teams working in:
+<ul style="font-size: 12px;">
   <li>Cloud Security / Security Operations.</li>
   <li>Cloud Engineering.</li>
   <li>Infrastructure / Platform Engineering.</li>
   <li>Network Engineering.</li>
   <li>IoT and M2M cloud deployment.</li>
+ </ul>
 
 This page will continue to evolve as I publish new labs, projects, and research.
 
