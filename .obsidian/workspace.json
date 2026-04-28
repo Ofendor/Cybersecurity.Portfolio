@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5044631958008
+    "width": 307.5044631958008,
+    "collapsed": true
   },
   "right": {
     "id": "9ac8fbf28aeea509",
@@ -200,7 +201,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "406941ccb7133a6a",
+  "active": "ff8cc290c14052b1",
   "lastOpenFiles": [
     "malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md",
     "malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md",
