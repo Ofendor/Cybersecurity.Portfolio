@@ -52,13 +52,14 @@ You can also find my CV and contact information.
 
 <p style="color: #b5e853;">Malware Analysis</p>
 
-| # | Lab | Category | Tools Used | Status |
-|---|-----|----------|------------|--------|
-| 01 | [Lab Setup & Safe Analysis Environment]([https://github.com/Ofendor/Cybersecurity.Portfolio/blob/main/malware-analysis/lab-01-setup/lab-01-setup-notes.md]) | Setup | VirtualBox, Windows LTSC, REMnux | ✅ |
-| 01b | [FLARE-VM Troubleshooting Log](lab-02-troubleshooting-log.md) | Troubleshooting | Chocolatey, Python, DISM | ✅ |
-| 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | 🔄 |
-| 03 | Static Analysis - String Extraction | Static | strings, FLOSS | 🔄 |
-| 04 | Behavior Analysis | Dynamic | Process Monitor, Wireshark, x64dbg | 🔄 |
+| #   | Lab                                                                                                           | Category        | Tools Used                         | Status |
+| --- | ------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------- | ------ |
+| 01a | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-01-setup/lab-01-setup-notes.md)                  | Setup           | VirtualBox, Windows LTSC, REMnux   | ✅      |
+| 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md)                   | Troubleshooting | Chocolatey, Python, DISM           | ✅      |
+| 02a | [Getting malware samples](malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md)      | Getting repo    | 7zip, urar, Linux                  | ✅      |
+| 02b | [Static Analysis - File Triage](malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md) | Static          | PEview, strings, VirusTotal        | 🔄     |
+| 03  | Static Analysis - String Extraction                                                                           | Static          | strings, FLOSS                     | 🔄     |
+| 04  | Behavior Analysis                                                                                             | Dynamic         | Process Monitor, Wireshark, x64dbg | 🔄     |
 
 <p style="font-size: 13px;">
 Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
