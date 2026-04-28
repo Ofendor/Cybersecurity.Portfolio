@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff8cc290c14052b1",
+  "active": "406941ccb7133a6a",
   "lastOpenFiles": [
     "malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md",
     "malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md",
