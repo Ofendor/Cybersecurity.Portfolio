@@ -57,7 +57,7 @@ You can also find my CV and contact information.
 | 01a | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-01-setup/lab-01-setup-notes.md)                  | Setup           | VirtualBox, Windows LTSC, REMnux   | ✅      |
 | 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md)                   | Troubleshooting | Chocolatey, Python, DISM           | ✅      |
 | 02a | [Getting malware samples](malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md)      | Getting repo    | 7zip, urar, Linux                  | ✅      |
-| 02b | [Static Analysis - File Triage](malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md) | Static          | PEview, strings, VirusTotal        | 🔄     |
+| 02b | [Static Analysis - File Triage](malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md) | Static          | PEview, strings, VirusTotal        | ✅     |
 | 03  | Static Analysis - String Extraction                                                                           | Static          | strings, FLOSS                     | 🔄     |
 | 04  | Behavior Analysis                                                                                             | Dynamic         | Process Monitor, Wireshark, x64dbg | 🔄     |
 
