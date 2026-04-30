@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md",
+                "file": "malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-lab-02-sample-acquisition"
+              "title": "02-lab-02-hash-verification"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5044631958008
+    "width": 307.5044631958008,
+    "collapsed": true
   },
   "right": {
     "id": "9ac8fbf28aeea509",
@@ -201,24 +202,25 @@
   },
   "active": "ff8cc290c14052b1",
   "lastOpenFiles": [
+    "malware-analysis/lab-02-basic-static-analysis/images/threat-intelligence4.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-29 140351.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/threat-intelligence3.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-29 124303.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/threat-intelligence2.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-29 140451.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/threat-intelligence1.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-29 124227.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/analytical-analysis-hash3.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-29 105733.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/analytical-analysis-hash2.png",
+    "Untitled.base",
     "malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md",
-    "malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md",
-    "malware-analysis/lab-02-basic-static-analysis/images/analytical-analysis-hash1.png",
-    "malware-analysis/lab-01-setup/lab-01-setup-notes.md",
     "malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification 1.md",
+    "malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md",
+    "malware-analysis/lab-01-setup/lab-01-setup-notes.md",
     "malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md",
     "README.md",
-    "Untitled.base",
     "malware-analysis/lab-02-basic-static-analysis/Hash Verification (editing).md",
-    "Pasted image 20260428135054.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/dir-repo-location9.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-28 141911.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/dir-repo-location8.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-28 141646.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/dir-repo-location7.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/Screenshot 2026-04-28 141137.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/lab-disclaimer.png",
-    "malware-analysis/lab-02-basic-static-analysis/images/lab-disclaimer (2).png",
     "malware-analysis/lab-02-basic-static-analysis/images",
     "malware-analysis/lab-02-basic-static-analysis/New folder",
     "malware-analysis/lab-02-basic-static-analysis",
