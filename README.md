@@ -49,7 +49,7 @@ You can also find my CV and contact information.
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| SCADA IoT Lab — Simulated ICS Environment | Fictional NZ water treatment facility (AquaNet NZ). Sensor data simulation via Python and MQTT, real-time monitoring via Scada-LTS and ScadaBR HMI dashboards, local MQTT broker orchestrated with Docker Compose, anomaly detection and CSV logging. Includes original Raspberry Pi IoT lab files as reference. | Python, Docker, Docker Compose, Mosquitto MQTT, Scada-LTS, ScadaBR, Modbus TCP, Linux Ubuntu | 🔄 In Progress |
+| SCADA IoT Lab — Simulating ICS Environment | Fictional NZ water treatment facility (AquaNet NZ). Sensor data simulation via Python and MQTT, real-time monitoring via Scada-LTS and ScadaBR HMI dashboards, local MQTT broker orchestrated with Docker Compose, anomaly detection and CSV logging. Includes original Raspberry Pi IoT lab files as reference. | Python, Docker, Docker Compose, Mosquitto MQTT, Scada-LTS, ScadaBR, Modbus TCP, Linux Ubuntu | 🔄 In Progress |
 
 | Network | Associated Exemplar |
 |---------|--------------------|
