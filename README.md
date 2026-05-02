@@ -45,6 +45,12 @@ You can also find my CV and contact information.
 
 <p style="color: #b5e853;">Skills</p>
 
+<p style="color: #b5e853;">Infrastructure & Cloud Projects</p>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| SCADA IoT Lab — Simulated ICS Environment | Fictional NZ water treatment facility (AquaNet NZ). Sensor data simulation via Python and MQTT, real-time monitoring via Scada-LTS and ScadaBR HMI dashboards, local MQTT broker orchestrated with Docker Compose, anomaly detection and CSV logging. Includes original Raspberry Pi IoT lab files as reference. | Python, Docker, Docker Compose, Mosquitto MQTT, Scada-LTS, ScadaBR, Modbus TCP, Linux Ubuntu | 🔄 In Progress |
+
 | Network | Associated Exemplar |
 |---------|--------------------|
 | DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a> ✅ |
