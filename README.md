@@ -64,6 +64,7 @@ You can also find my CV and contact information.
 | 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md)                   | Troubleshooting | Chocolatey, Python, DISM           | ✅      |
 | 02a | [Getting malware samples](malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md)      | Getting repo    | 7zip, urar, Linux                  | ✅      |
 | 02b | [Hash Verification & Threat Intelligence](02-lab-02-hash-verification.md) | Static          | PEview, strings, VirusTotal        | ✅     |
+| 02c | [SIEM integration and NAT simulation](03-lab-02-siem-integration-and-NAT-simulation.md) | Static          | WAZUH SIEM Tool, INETsim, DNSchef, start script.sh        | ✅     |
 | 03  | Static Analysis - String Extraction                                                                           | Static          | strings, FLOSS                     | 🔄     |
 | 04  | Behavior Analysis                                                                                             | Dynamic         | Process Monitor, Wireshark, x64dbg | 🔄     |
 
