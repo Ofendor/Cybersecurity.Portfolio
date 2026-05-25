@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "df83fef4860693c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c88e82343f756d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181ee4a946a255a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b1305bb6a48d2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "adfbea2bd3c14f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "630c2d7078bdfb62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "448ef1f350308b5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f66274f6308c6275",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "93b9f1a96c66a479",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0018e58eb5f8c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a76e0968018b224",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-network-simulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03-lab-02-siem-network-simulation"
+            }
+          },
+          {
+            "id": "d32cd8221ad6da60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-network-simulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03-lab-02-siem-network-simulation"
+            }
+          },
+          {
+            "id": "be0a8761b567663f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc2efa12e63dd6b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e367fd29d692ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-network-simulation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03-lab-02-siem-network-simulation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "181ee4a946a255a7",
+  "lastOpenFiles": [
+    "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-integration-and-NAT-simulation.md",
+    "malware-analysis/lab-02-basic-static-analysis/linux/start-lab.sh",
+    "malware-analysis/lab-02-basic-static-analysis/linux/install-agent.sh",
+    "malware-analysis/lab-02-basic-static-analysis/linux/start-lab.sh.md",
+    "malware-analysis/lab-02-basic-static-analysis/images/nano1.png",
+    "malware-analysis/lab-02-basic-static-analysis/linux/jahsdjs.md",
+    "malware-analysis/lab-02-basic-static-analysis/linux",
+    "malware-analysis/lab-02-basic-static-analysis/windows",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-dnschef2.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-dnschef1.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-inetsim3.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-inetsim2.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-inetsim1.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-wazuh0.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-wazuhagent3.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-dynamicagent1.png",
+    "malware-analysis/lab-02-basic-static-analysis/images/03-lab-02-staticagent4.png",
+    "malware-analysis/lab-02-basic-static-analysis/02-lab-02-hash-verification.md",
+    "Untitled.base"
+  ]
+}
