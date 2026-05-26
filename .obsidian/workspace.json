@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "93b9f1a96c66a479",
@@ -184,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "181ee4a946a255a7",
+  "active": "630c2d7078bdfb62",
   "lastOpenFiles": [
+    "malware-analysis/lab-02-basic-static-analysis/windows scripts",
     "README.md",
     "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-integration-and-NAT-simulation.md",
     "malware-analysis/lab-02-basic-static-analysis/linux/start-lab.sh",
