@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-integration-and-NAT-simulation.md",
+                "file": "malware-analysis/lab-02-basic-static-analysis/windows scripts/hi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-lab-02-siem-integration-and-NAT-simulation"
+              "title": "hi"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "630c2d7078bdfb62",
+  "active": "181ee4a946a255a7",
   "lastOpenFiles": [
+    "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-integration-and-NAT-simulation.md",
+    "malware-analysis/lab-02-basic-static-analysis/windows scripts/hi.md",
     "malware-analysis/lab-02-basic-static-analysis/windows scripts",
     "README.md",
-    "malware-analysis/lab-02-basic-static-analysis/03-lab-02-siem-integration-and-NAT-simulation.md",
     "malware-analysis/lab-02-basic-static-analysis/linux/start-lab.sh",
     "malware-analysis/lab-02-basic-static-analysis/linux/install-agent.sh",
     "malware-analysis/lab-02-basic-static-analysis/linux/start-lab.sh.md",
