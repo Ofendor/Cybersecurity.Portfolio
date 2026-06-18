@@ -36,16 +36,6 @@ This portfolio is an index of the hands-on projects, labs, and research I have p
 - Security reporting aligned with NIST and MITRE ATT&CK
 - Continuous learning through TryHackMe and Hack The Box
 
-## Career Goals
-
-My long-term goal is to contribute to teams working in:
-
-- Cloud Security / Security Operations
-- Cloud Engineering
-- Infrastructure / Platform Engineering
-- Network Engineering
-- IoT and M2M cloud deployment
-
 This page will continue to evolve as I publish new labs, projects, and research.
 
 ## Skills & Tooling
