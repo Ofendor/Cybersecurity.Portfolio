@@ -47,18 +47,25 @@ This page will continue to evolve as I publish new labs, projects, and research.
 
 ## Projects
 
-### Infrastructure & Cloud
+### Infrastructure, Cloud & DevOps
 
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
-| SCADA IoT Lab — Simulating an ICS Environment | Fictional NZ water treatment facility (AquaNet NZ). Sensor data simulation via Python and MQTT, real-time monitoring via Scada-LTS and ScadaBR HMI dashboards, local MQTT broker orchestrated with Docker Compose, anomaly detection and CSV logging. Includes original Raspberry Pi IoT lab files as reference. | Python, Docker, Docker Compose, Mosquitto MQTT, Scada-LTS, ScadaBR, Modbus TCP, Ubuntu | 🔄 In Progress |
+| [DevOps Portfolio Lab](https://github.com/Ofendor/devops-lab) | Six-phase DevOps build on a single Ubuntu 24.04 VM: Linux fundamentals, Docker with Prometheus/Grafana observability, Kubernetes (K3s) and cluster security, Ansible and GitLab CI/CD, and an integrated multi-service app (Flask/MySQL/Redis) behind an Nginx reverse proxy. Emphasis on infrastructure-as-code, container image scanning, and OpenStack / data-sovereignty concepts. | Ubuntu, Docker, Kubernetes (K3s), Ansible, Prometheus, Grafana, Nginx, Flask, MySQL, Redis, Trivy, Grype, GitLab CI | 🔄 In Progress |
+| [SCADA IoT Lab — ICS Environment](https://github.com/Ofendor/scada-iot-lab) | Simulated ICS/SCADA environment modelling a fictional Auckland water treatment facility (AquaNet NZ, Avondale catchment). Streams six live sensor values — turbidity, E.coli, pH and nitrate from real LAWA 2004–2024 data, plus pipe pressure and flow from an EPANET hydraulic model — over MQTT into a Scada-LTS HMI dashboard, with a Python monitor logging readings and raising NPS-FM 2020 threshold alerts. Includes a security write-up on unencrypted MQTT/Modbus weaknesses, hardening steps, and real-world ICS incidents. | Python, paho-mqtt, Eclipse Mosquitto, Scada-LTS, ScadaBR, Docker Compose, MySQL, EPANET/EPyT, Ubuntu | 🔄 In Progress |
+
+### Systems Administration & Service Desk
+
+| Project | Description | Stack | Status |
+| --- | --- | --- | --- |
+| [Service Desk Support Lab](https://github.com/Ofendor/Service-Desk-Support-Lab) | Windows Server 2022 domain (AD DS, DNS, DHCP) with a domain-joined Windows 11 client and a Debian/Docker osTicket ticketing system. Around two dozen PowerShell/Bash automation scripts, Group Policy work (password, lockout, logon-hours, drive mapping), WSUS patch management, Intune device enrolment, and realistic help-desk ticket simulations — onboarding, resets, account unlocks, NTFS/share permissions. | Windows Server 2022, Active Directory, DNS, DHCP, Group Policy, WSUS, Intune, PowerShell, osTicket, Docker, MariaDB, Nginx, Debian | 🔄 In Progress |
 
 ### Network & Traffic Analysis
 
 | Project | Report | Status |
 | --- | --- | --- |
-| DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Network traffic activity report</a> | ✅ |
-| TCP Protocol & SYN Handshake Log Analysis with Wireshark | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Network attack report</a> | ✅ |
+| [DNS & ICMP Traffic Analysis with tcpdump](https://github.com/Ofendor/Portfolio1-Analysing-Network-communications) | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Network traffic activity report</a> | ✅ |
+| [TCP Protocol & SYN Handshake Log Analysis with Wireshark](https://github.com/Ofendor/Portfolio2-Analysing-Network-Attacks) | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Network attack report</a> | ✅ |
 
 ### Malware Analysis
 
