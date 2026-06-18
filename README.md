@@ -16,7 +16,6 @@
   </a>
 </p>
 
-> **Open to roles in Security Operations (SOC), Cloud Security, and Network Engineering — based in Aotearoa, New Zealand.**
 
 ```python
 print("Kia ora koutou!")
