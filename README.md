@@ -1,97 +1,97 @@
-<a href="https://www.linkedin.com/in/emilio-mardones" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Badge" width="24" height="24" />
-</a>
-<a href="mailto:milomardones.nc@proton.me" target="_blank">
-  <img src="https://www.clipartmax.com/png/small/31-316827_gmail-icon-gmail-icon.png" alt="Gmail Icon" width="24" height="24">
-</a>
-<a href="https://drive.proton.me/urls/M4S25QMFWG#2sGnu7eeo8jt" target="_blank">
-  <img src="https://www.clipartmax.com/png/small/97-978185_cv-library-banners-cv-library-jobs.png" alt="CV Library Icon" width="24" height="24">
-</a>
-
-<p style="color: #b5e853;">Introduction</p>
-
-<pre><code style="color: #ff3f31;">1 print("Kia ora koutou!")</code></pre>
-
-<p style="font-size: 13px;">
-  My name is Emilio Mardones, and I am based in Aotearoa, New Zealand. I recently completed a Level 7 Diploma in Network Engineering & Cloud Computing and am building my career at the intersection of cloud infrastructure, networking, and cybersecurity.
+<p align="left">
+  <a href="https://www.linkedin.com/in/emilio-mardones" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-emilio--mardones-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:milomardones.nc@proton.me">
+    <img src="https://img.shields.io/badge/Email-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.proton.me/urls/M4S25QMFWG#2sGnu7eeo8jt" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-2EA44F?style=flat-square" alt="CV" />
+  </a>
+  <a href="https://github.com/Ofendor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Ofendor-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.credly.com/users/emilio-mardones" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
+  </a>
 </p>
-<p style="font-size: 13px;">
-This portfolio documents my hands-on projects, labs, and research as I continue developing practical engineering skills. My work includes:
-<ul style="font-size: 12px;">
-  <li>Cloud infrastructure labs in Azure, with growing focus on OpenStack and Kubernetes.</li>
-  <li>Network design, segmentation, and security hardening projects.</li>
-  <li>Malware analysis and sandbox research.</li>
-  <li>Python automation and IoT integrations.</li>
-  <li>Packet capture and protocol analysis using Wireshark and tcpdump.</li>
-  <li>Security reporting aligned with frameworks such as NIST and MITRE ATT&CK.</li>
-  <li>Continuous learning through platforms such as TryHackMe and Hack The Box.</li>
- </ul>
 
-</p>
- 
-<p style="color: #b5e853;">Career Goals</p>
+> **Open to roles in Security Operations (SOC), Cloud Security, and Network Engineering — based in Aotearoa, New Zealand.**
+
+```python
+print("Kia ora koutou!")
+```
+
+## Introduction
+
+My name is Emilio Mardones, and I am based in Aotearoa, New Zealand. I recently completed a Level 7 Diploma in Network Engineering & Cloud Computing and am building my career at the intersection of cloud infrastructure, networking, and cybersecurity.
+
+This portfolio is an index of the hands-on projects, labs, and research I have published so far. My work spans:
+
+- Cloud infrastructure labs in Azure, with growing focus on OpenStack and Kubernetes
+- Network design, segmentation, and security hardening
+- Malware analysis and sandbox research
+- Python automation and IoT integrations
+- Packet capture and protocol analysis with Wireshark and tcpdump
+- Security reporting aligned with NIST and MITRE ATT&CK
+- Continuous learning through TryHackMe and Hack The Box
+
+## Career Goals
+
 My long-term goal is to contribute to teams working in:
-<ul style="font-size: 12px;">
-  <li>Cloud Security / Security Operations.</li>
-  <li>Cloud Engineering.</li>
-  <li>Infrastructure / Platform Engineering.</li>
-  <li>Network Engineering.</li>
-  <li>IoT and M2M cloud deployment.</li>
- </ul>
+
+- Cloud Security / Security Operations
+- Cloud Engineering
+- Infrastructure / Platform Engineering
+- Network Engineering
+- IoT and M2M cloud deployment
 
 This page will continue to evolve as I publish new labs, projects, and research.
 
-You can also find my CV and contact information.
+## Skills & Tooling
 
-<p style="color: #b5e853;">Skills</p>
+- **Networking:** segmentation, hardening, DNS / ICMP / TCP analysis, tcpdump, Wireshark
+- **Cloud & Infrastructure:** Azure, OpenStack, Kubernetes, Docker / Docker Compose
+- **Security:** malware analysis, SIEM (Wazuh), threat intelligence, NIST, MITRE ATT&CK
+- **Scripting:** Python, PowerShell, Bash
 
-<p style="color: #b5e853;">Infrastructure & Cloud Projects</p>
+## Projects
 
-| Project                                    | Description                                                                                                                                                                                                                                                                                                      | Stack                                                                                        | Status        |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------- |
-| SCADA IoT Lab — Simulating ICS Environment | Fictional NZ water treatment facility (AquaNet NZ). Sensor data simulation via Python and MQTT, real-time monitoring via Scada-LTS and ScadaBR HMI dashboards, local MQTT broker orchestrated with Docker Compose, anomaly detection and CSV logging. Includes original Raspberry Pi IoT lab files as reference. | Python, Docker, Docker Compose, Mosquitto MQTT, Scada-LTS, ScadaBR, Modbus TCP, Linux Ubuntu | ✅ In Progress |
+### Infrastructure & Cloud
 
-| Network                                                  | Associated Exemplar                                                                                                         |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| DNS & ICMP Traffic Analysis with tcpdump                 | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Report of a network traffic activity</a> ✅ |
-| TCP protocol & SYN Handshake log analysis with Wireshark | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Report of a network attack</a> ✅                  |
+| Project | Description | Stack | Status |
+| --- | --- | --- | --- |
+| SCADA IoT Lab — Simulating an ICS Environment | Fictional NZ water treatment facility (AquaNet NZ). Sensor data simulation via Python and MQTT, real-time monitoring via Scada-LTS and ScadaBR HMI dashboards, local MQTT broker orchestrated with Docker Compose, anomaly detection and CSV logging. Includes original Raspberry Pi IoT lab files as reference. | Python, Docker, Docker Compose, Mosquitto MQTT, Scada-LTS, ScadaBR, Modbus TCP, Ubuntu | 🔄 In Progress |
 
-<p style="color: #b5e853;">Malware Analysis</p>
+### Network & Traffic Analysis
 
-| #   | Lab                                                                                                           | Category        | Tools Used                         | Status |
-| --- | ------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------- | ------ |
-| 01a | [Lab Setup & Safe Analysis Environment](malware-analysis/lab-01-setup/lab-01-setup-notes.md)                  | Setup           | VirtualBox, Windows LTSC, REMnux   | ✅      |
-| 01b | [FLARE-VM Troubleshooting Log](malware-analysis/lab-01-setup/lab-02-troubleshooting-log.md)                   | Troubleshooting | Chocolatey, Python, DISM           | ✅      |
-| 02a | [Getting malware samples](malware-analysis/lab-02-basic-static-analysis/01-lab-02-sample-acquisition.md)      | Getting repo    | 7zip, urar, Linux                  | ✅      |
-| 02b | [Hash Verification & Threat Intelligence](02-lab-02-hash-verification.md) | Static          | PEview, strings, VirusTotal        | ✅     |
-| 02c | [SIEM integration and NAT simulation](03-lab-02-siem-integration-and-NAT-simulation.md) | Static          | WAZUH SIEM Tool, INETsim, DNSchef, start script.sh        | ✅     |
-| 03  | Static Analysis - String Extraction                                                                           | Static          | strings, FLOSS                     | 🔄     |
-| 04  | Behavior Analysis                                                                                             | Dynamic         | Process Monitor, Wireshark, x64dbg | 🔄     |
+| Project | Report | Status |
+| --- | --- | --- |
+| DNS & ICMP Traffic Analysis with tcpdump | <a href="https://ofendor.github.io/Portfolio1-Analysing-Network-communications/">Network traffic activity report</a> | ✅ |
+| TCP Protocol & SYN Handshake Log Analysis with Wireshark | <a href="https://ofendor.github.io/Portfolio2-Analysing-Network-Attacks/">Network attack report</a> | ✅ |
 
-<p style="font-size: 13px;">
-Self-directed malware analysis study based on Practical Malware Analysis (Sikorski) and Evasive Malware (Cucci, 2024). Labs are conducted in an isolated VirtualBox environment following safe handling practices.
-</p>
+### Malware Analysis
 
-<!--
-| Incident Response to Brute Force Attack      | <a href="https://ofendor.github.io/Portfolio3-Incident-Response-to-Brute-Force-Attack/">Using Tcpdump logs to identify protocols</a>|
-| Network Hardening Tools                      | <a href="https://ofendor.github.io/Portfolio4Network-Hardening-Tools/">Security Risk Assessment report</a>|
-| NIST Cybersecurity Framework as an incident response tool | Elaborating a report following compliances|
--->
+A self-directed malware analysis study conducted in an isolated VirtualBox environment, based on *Practical Malware Analysis* (Sikorski & Honig) and *Evasive Malware* (Cucci, 2024), following safe handling practices.
 
-<!--
-| 02 | Static Analysis - File Triage | Static | PEview, strings, VirusTotal | ⬜ |
-| 03 | Static Analysis - String Extraction | Static | strings, FLOSS | ⬜ |
-| 04 | Behavior Analysis | Dynamic | Process Monitor, Wireshark, x64dbg | ⬜ |
-| 05 | Debugging & Disassembly | Dynamic | x64dbg, IDA Free | ⬜ |
-| 06 | Obfuscation Techniques | Advanced | IDA Free, FLOSS | ⬜ |
--->
+**Repository → [malware-analysis-lab](https://github.com/Ofendor/malware-analysis-lab)**
 
-<p style="color: #b5e853; font-weight: bold;">Certs</p>
-2024 - Google Cybersecurity Professional Certificate [Coursera]
+Documented inside the repository so far (open the repository above to read each entry):
 
-[Visit my Credly profile to check for badges and credentials](https://www.credly.com/users/emilio-mardones)
+| # | Lab | Category | Tools | Status |
+| --- | --- | --- | --- | --- |
+| 01a | Lab Setup & Safe Analysis Environment | Setup | VirtualBox, Windows LTSC, REMnux | ✅ |
+| 01b | FLARE-VM Troubleshooting Log | Troubleshooting | Chocolatey, Python, DISM | ✅ |
+| 02a | Sample Acquisition | Acquisition | 7-Zip, unrar, Linux | ✅ |
+| 02b | Hash Verification & Threat Intelligence | Static | PEview, strings, VirusTotal | ✅ |
+| 02c | SIEM Integration & NAT Simulation | Infrastructure | Wazuh, INetSim, DNSChef | ✅ |
+| 03 | Static Analysis — String Extraction | Static | strings, FLOSS | 🔄 |
+| 04 | Behaviour Analysis | Dynamic | Process Monitor, Wireshark, x64dbg | 🔄 |
 
-[Main Cybersecurity Certificate](https://drive.google.com/file/d/12MpTK7f06sfj6RC-NY48VOSnq_j2WYAd/view?usp=sharing)
+## Certifications
+
+**2024 — Google Cybersecurity Professional Certificate (Coursera)**
+[Main certificate](https://drive.google.com/file/d/12MpTK7f06sfj6RC-NY48VOSnq_j2WYAd/view?usp=sharing) · [Credly profile](https://www.credly.com/users/emilio-mardones)
 
 - [Foundations of Cybersecurity](https://coursera.org/share/48a44f7bd12d318186045eb7c62342da)
 - [Managing Security Risks](https://coursera.org/share/ddb6c36249e444df898624cf9567aa05)
@@ -102,21 +102,23 @@ Self-directed malware analysis study based on Practical Malware Analysis (Sikors
 - [Automating Security Tasks with Python](https://coursera.org/share/bf47f0e56b5dc708b5735105288cd2ec)
 - [Communicating with Stakeholders and Escalating Incidents](https://coursera.org/share/147e4017a76017e37d87a52c821c5512)
 
-2024 - EC-Council
-- [SQL Injection attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
-- [CURRENT] - Network Defense Fundamentals Career Path
+**2024 — EC-Council**
 
-2024-2025 Cisco Academy
+- [SQL Injection Attacks](https://drive.google.com/file/d/13mJFjTMqs2Pk3WYhqKZf-saOyT6DciAt/view)
+- *[Current]* Network Defense Fundamentals Career Path
+
+**2024–2025 — Cisco Networking Academy**
+
 - [Introduction to Cybersecurity](https://drive.google.com/file/d/1so9GHoRlknjTD5U9qUVI5D-QyJvhB06w/view?usp=sharing)
 - [Network Technician: Network Basics](https://drive.google.com/file/d/19MKnnmIVnbhw2Y7ySmNnCkaStiEGDOHT/view?usp=sharing)
-- [CURRENT] - Networking Devices and Initial Configuration [Part of Network technician career path]
-- [CURRENT] - Python 1 for Networking [Part of Network technician career path]
+- *[Current]* Networking Devices and Initial Configuration
+- *[Current]* Python 1 for Networking
 
-2024 - Cybrary
+**2024 — Cybrary**
+
 - [The MITRE ATT&CK Framework](https://drive.google.com/file/d/1loLTSzUfVHYcjGc8u4asRxGAteYKu75M/view?usp=sharing)
 
-2024-2025 - TryHackMe Academy
+**2024–2025 — TryHackMe**
+
 - [Cybersecurity and Network Security](https://drive.google.com/file/d/1zY9YeLcZvC5ohbS7INzbhUxr8ySP_apz/view?usp=sharing)
-- [CURRENT] - SOC Level 1 Career Path
-
-
+- *[Current]* SOC Level 1 Career Path
